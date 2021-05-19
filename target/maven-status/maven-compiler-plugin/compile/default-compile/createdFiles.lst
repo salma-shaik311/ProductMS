@@ -1,0 +1,15 @@
+com\group7\product\productdetails\entity\SubscribedProduct.class
+com\group7\product\productdetails\repository\ProductRepository.class
+com\group7\product\productdetails\contoller\ProductDetailsController.class
+com\group7\product\productdetails\dto\SubscribedProductDTO.class
+com\group7\product\productdetails\ProductDetailsApplication.class
+com\group7\product\productdetails\service\ProductDetailsServiceImpl.class
+com\group7\product\productdetails\entity\Product.class
+com\group7\product\productdetails\dto\PDTO.class
+com\group7\product\productdetails\repository\ProductOrderedRepository.class
+com\group7\project\projectdetails\utility\ExceptionControllerAdvice.class
+com\group7\project\projectdetails\utility\ErrorInfo.class
+com\group7\product\productdetails\validator\Validator.class
+com\group7\product\productdetails\entity\CompositeTable.class
+com\group7\product\productdetails\dto\ProductDTO.class
+com\group7\product\productdetails\service\ProductDetailsService.class

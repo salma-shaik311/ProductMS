@@ -1,0 +1,7 @@
+organization=salma-shaik311
+projectKey=com.group7:ProductMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20206
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.group7%3AProductMS
+ceTaskId=AXmFdTq52SYq9eoiyGV0
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmFdTq52SYq9eoiyGV0
