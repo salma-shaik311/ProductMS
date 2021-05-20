@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   secrets-manager:
-    LOGIN: product-ms:1d27eb37ea52f8f619e527b98d00cfc6fa813537
-    HOST: product-ms:https://sonarcloud.io
-    Organization: product-ms:salma-shaik311
-    Project: product-ms:com.group7:ProductMS
+    LOGIN: ProductMSProject:sonartoken
+    HOST: ProductMSProject:host
+    Organization: ProductMSProject:organization
+    Project: ProductMSProject:projectKey
 
 phases:
   install:
